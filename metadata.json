@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Master - Interactive Quiz App",
+  "description": "A modern, interactive quiz application featuring general knowledge questions, animated glassmorphic UI, progress tracking, answer reviews, and comprehensive scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
